@@ -1,0 +1,19 @@
+{
+  "name": "kubrick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colgatto <colgatto@protonmail.com> (https://github.com/colgatto)",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "8.2.6",
+    "inquirer-file-tree-selection-prompt": "1.0.19",
+    "yargs": "^17.7.2"
+  },
+  "bin": {
+	"kubrick": "bin/main.js"
+  }
+}

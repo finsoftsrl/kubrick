@@ -1,0 +1,5 @@
+bin/*.exe
+node_modules/*
+*.jpg
+*.png
+*.mp4
